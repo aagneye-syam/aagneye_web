@@ -323,7 +323,7 @@ h3{font-size: 2.5rem;  font-family: 'Roboto', sans-serif;}
 summary{
   width: 100%;
   cursor: pointer;
-  background-color: var(--skyColor);
+  /*background-color: var(--skyColor); */
   font-family: 'Poppins', sans-serif;
   color: var(--textColorDark);
   font-size: 1.8rem;
