@@ -250,11 +250,11 @@ h3{font-size: 2.5rem;  font-family: 'Roboto', sans-serif;}
     align-items: center;
     justify-content: space-around;
   }
-  #skill1{background-image: url(/images/skill1.jpg);}
-  #skill2{background-image: url(/images/skill2.jpg);}
-  #skill3{background-image: url(/images/skill3.jpg);}
-  #skill4{background-image: url(/images/skill4.jpg);}
-  #skill5{background-image: url(/images/skill5.jpg);}
+  #skill1{background-image: url(images/skill1.jpg);}
+  #skill2{background-image: url(images/skill2.jpg);}
+  #skill3{background-image: url(images/skill3.jpg);}
+  #skill4{background-image: url(images/skill4.jpg);}
+  #skill5{background-image: url(images/skill5.jpg);}
 
 #project1,#project2,#project3{
   background-position: center;
@@ -264,9 +264,9 @@ h3{font-size: 2.5rem;  font-family: 'Roboto', sans-serif;}
   align-items: center;
   justify-content: space-around;
 }
-#project1{background-image: url(/images/project1.jpg);}
-#project2{background-image: url(/images/project2.jpg);}
-#project3{background-image: url(/images/project3.jpg);}
+#project1{background-image: url(images/project1.jpg);}
+#project2{background-image: url(images/project2.jpg);}
+#project3{background-image: url(images/project3.jpg);}
 
 /* Resources */
 .buttons{
